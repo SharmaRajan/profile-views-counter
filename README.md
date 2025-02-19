@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:24 AM UTC
+			2025/2/17 7:24 AM UTC
 		</td>
 		<td>
 			0
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:24 AM UTC
+			2025/2/17 7:24 AM UTC
 		</td>
 		<td>
 			0
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:24 AM UTC
+			2025/2/17 7:24 AM UTC
 		</td>
 		<td>
 			0
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			1
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/2/16 7:25 AM UTC
+			2025/2/17 7:25 AM UTC
 		</td>
 		<td>
 			0
@@ -195,9 +195,105 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/778360962/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/575378569/year.md">
+				SveltePractice_7_Dec_2022
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/575378569/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/575362710/year.md">
+				IntellijCode_7_Dec_2022
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/575362710/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/574610783/year.md">
+				BasicCollision
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/574610783/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/415340637/year.md">
+				Website
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/415340637/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/443017465/year.md">
+				springboot_Security-LearnCodeWithDurgesh
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/443017465/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/SharmaRajan/profile-views-counter/tree/master/readme/343410109/year.md">
+				FirstRepo
+			</a>
+		</td>
+		<td>
+			2025/2/16 7:33 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/SharmaRajan/profile-views-counter/raw/master/graph/343410109/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/19 7:25 AM UTC</i></small>
+<small><i>Last updated on 2025/2/19 7:33 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
