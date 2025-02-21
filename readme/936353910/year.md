@@ -1,7 +1,7 @@
 ## [🔙 profile-views-counter](https://github.com/SharmaRajan/profile-views-counter)
 
-### :octocat: [DSA-C-Sharp](https://github.com/SharmaRajan/DSA-C-Sharp)
-![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/779497045/large/year.png)
+### :octocat: [GitHub-bot](https://github.com/SharmaRajan/GitHub-bot)
+![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/936353910/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/2/21 1:12 AM UTC</i></small>
+<small><i>Last updated on 2025/2/21 1:13 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/svg/779497045/badge.svg)](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/779497045/week.md)
+[![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/svg/936353910/badge.svg)](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/936353910/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/svg/779497045/badge.svg)](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/779497045/week.md)
+[![Image of profile-views-counter](https://github.com/SharmaRajan/profile-views-counter/blob/master/svg/936353910/badge.svg)](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/936353910/week.md)
 ```
 ### Header
-# DSA-C-Sharp [<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/779497045/small/year.png" height="20">](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/779497045/year.md)
+# GitHub-bot [<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/936353910/small/year.png" height="20">](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/936353910/year.md)
 ```readme
-# DSA-C-Sharp [<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/779497045/small/year.png" height="20">](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/779497045/year.md)
+# GitHub-bot [<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/936353910/small/year.png" height="20">](https://github.com/SharmaRajan/profile-views-counter/blob/master/readme/936353910/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
